@@ -1,4 +1,4 @@
-# PDF-generetor
+# PDF-generator
 personal PDF generator to create my cv using python
 
 ## Installation
